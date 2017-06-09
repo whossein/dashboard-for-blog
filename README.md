@@ -11,6 +11,8 @@
 
 
  [برای دیدن همین داشبور ادمین بصورت خام به ضفحه گیت هاب مراجعه فرمادید](https://github.com/whossein/material-dashboard-rtl) 
+ 
+ [DEMO](https://whossein.github.io/dashboard-for-blog/) 
 
 
 
